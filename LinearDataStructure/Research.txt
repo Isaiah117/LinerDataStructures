@@ -1,0 +1,10 @@
+
+Write a few sentences describing when you would use a liked list in the real world and why you would do so. - 5 points
+
+	One place I would use a lnked list in the real world would be in a web browser, where it creates a linked list of 
+	previous or "visited" web pages. I would use it because it would make it so that when you check your history or press 
+	the back button the previous node's data would be fetched.
+
+Write a sentence or two describing the difference between a stack and a queue. - 5 points
+
+	The main differences between stack and queue would be that a stack uses LIFO (last in first out) method to access and add data elements whereas a Queue would use FIFO (First in first out) method to access and add data elements.

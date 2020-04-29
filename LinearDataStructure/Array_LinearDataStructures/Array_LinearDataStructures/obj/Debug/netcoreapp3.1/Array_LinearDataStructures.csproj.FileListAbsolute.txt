@@ -1,0 +1,11 @@
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\obj\Debug\netcoreapp3.1\Array_LinearDataStructures.csprojAssemblyReference.cache
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\obj\Debug\netcoreapp3.1\Array_LinearDataStructures.AssemblyInfoInputs.cache
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\obj\Debug\netcoreapp3.1\Array_LinearDataStructures.AssemblyInfo.cs
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\bin\Debug\netcoreapp3.1\Array_LinearDataStructures.exe
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\bin\Debug\netcoreapp3.1\Array_LinearDataStructures.deps.json
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\bin\Debug\netcoreapp3.1\Array_LinearDataStructures.runtimeconfig.json
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\bin\Debug\netcoreapp3.1\Array_LinearDataStructures.runtimeconfig.dev.json
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\bin\Debug\netcoreapp3.1\Array_LinearDataStructures.dll
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\bin\Debug\netcoreapp3.1\Array_LinearDataStructures.pdb
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\obj\Debug\netcoreapp3.1\Array_LinearDataStructures.dll
+C:\Users\isaia\source\repos\Array_LinearDataStructures\Array_LinearDataStructures\obj\Debug\netcoreapp3.1\Array_LinearDataStructures.pdb

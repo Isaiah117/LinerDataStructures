@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearDataStructures", "LinearDataStructures\LinearDataStructures.csproj", "{AE8737BB-BB60-4265-9804-AC1FB9F5D53E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8737BB-BB60-4265-9804-AC1FB9F5D53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8737BB-BB60-4265-9804-AC1FB9F5D53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8737BB-BB60-4265-9804-AC1FB9F5D53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8737BB-BB60-4265-9804-AC1FB9F5D53E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E0329B-F351-4824-B81B-73EA857BADF4}
+	EndGlobalSection
+EndGlobal

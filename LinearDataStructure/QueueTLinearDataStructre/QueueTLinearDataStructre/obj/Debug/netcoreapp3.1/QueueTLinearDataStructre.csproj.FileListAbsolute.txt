@@ -1,0 +1,11 @@
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\bin\Debug\netcoreapp3.1\QueueTLinearDataStructre.exe
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\bin\Debug\netcoreapp3.1\QueueTLinearDataStructre.deps.json
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\bin\Debug\netcoreapp3.1\QueueTLinearDataStructre.runtimeconfig.json
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\bin\Debug\netcoreapp3.1\QueueTLinearDataStructre.runtimeconfig.dev.json
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\bin\Debug\netcoreapp3.1\QueueTLinearDataStructre.dll
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\bin\Debug\netcoreapp3.1\QueueTLinearDataStructre.pdb
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\obj\Debug\netcoreapp3.1\QueueTLinearDataStructre.csprojAssemblyReference.cache
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\obj\Debug\netcoreapp3.1\QueueTLinearDataStructre.AssemblyInfoInputs.cache
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\obj\Debug\netcoreapp3.1\QueueTLinearDataStructre.AssemblyInfo.cs
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\obj\Debug\netcoreapp3.1\QueueTLinearDataStructre.dll
+C:\Users\isaia\source\repos\QueueTLinearDataStructre\QueueTLinearDataStructre\obj\Debug\netcoreapp3.1\QueueTLinearDataStructre.pdb
